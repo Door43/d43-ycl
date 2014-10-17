@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ycl:home|Door43 (ycl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ycl|d43-ycl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ycl/archive/master.zip|d43-ycl.zip]]
+
+**Recent Changes**
+{{changes>ns = ycl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ycl|Ethnologue data]]
+
